@@ -5,7 +5,7 @@ import requests
 import glob
 import imghdr
 import argparse
-from client import PredictionClient
+from amlrealtimeai.client import PredictionClient
 from shutil import copyfile
 
 import pdb

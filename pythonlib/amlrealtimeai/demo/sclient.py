@@ -1,5 +1,5 @@
 import requests
-from client import PredictionClient
+from amlrealtimeai.client import PredictionClient
 import argparse
 
 parse = argparse.ArgumentParser(description='AML inferencing client')

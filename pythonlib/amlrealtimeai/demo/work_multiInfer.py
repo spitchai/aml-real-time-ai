@@ -1,7 +1,7 @@
 import threading
 import time
 import requests
-from client import PredictionClient
+from amlrealtimeai.client import PredictionClient
 import pdb
 import agrparse
 
